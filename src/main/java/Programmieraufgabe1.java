@@ -1,5 +1,5 @@
 public class Programmieraufgabe1 {
-    public static void main(String[] args) {
-        /* Hier Code einfügen  */
+    public static void main(String [] args) {
+         System.out.println("Hello, world!");
     }
 }
